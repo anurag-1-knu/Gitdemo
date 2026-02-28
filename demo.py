@@ -1,5 +1,5 @@
 print("Hello World")
-print("Hi")
+print("Hi Man")
 print("Hello World")
 print("Change from github")
 print("Anurag")
